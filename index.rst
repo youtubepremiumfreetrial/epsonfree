@@ -18,7 +18,10 @@ How to Download and Install the Epson Connect Printer Setup Utility?
       :target: https://eps.redircoms.com
 
 
-
+.. image:: blank.png
+      :width: 350px
+      :align: center
+      :height: 100px
 
 
 
