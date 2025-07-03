@@ -5,7 +5,10 @@ How to Download and Install the Epson Connect Printer Setup Utility?
 .. meta::
    :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
 
-
+.. image:: blank.png
+      :width: 350px
+      :align: center
+      :height: 100px
 
 .. image:: get-started.png
       :width: 350px
@@ -14,10 +17,7 @@ How to Download and Install the Epson Connect Printer Setup Utility?
       :alt: epson.com/setup
       :target: https://eps.redircoms.com
 
-.. image:: blank.png
-      :width: 350px
-      :align: center
-      :height: 100px
+
 
 
 
